@@ -1,0 +1,4 @@
+scrapy
+pymysql
+requests
+django==1.11
